@@ -1,0 +1,13 @@
+body{
+	background-color: yellow;
+}
+.btn{
+	background-color: greenyellow;
+}
+thead{
+	background-color: pink;
+}
+table{
+	margin: 2px;
+	border: solid 1px black;
+}
